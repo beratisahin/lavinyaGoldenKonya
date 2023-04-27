@@ -18,7 +18,7 @@ export default class Neden extends Component {
             <div className="row neden" style={{margin:"0%",padding:"1%",backgroundColor:"#EFEFEF",borderRadius:"1rem"}}>
                     <div className="col-12">
                     <p style={{color:"#E59026",textAlign:"center",fontSize:"20px"}}>Neden Konya Lavinya Golden Güzellik Merkezi</p>
-                    <br/>
+               
                     <br/>
                     </div>
                    

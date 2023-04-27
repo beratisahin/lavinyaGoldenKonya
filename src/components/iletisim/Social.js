@@ -66,7 +66,7 @@ function Iletisim() {
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Instagram:</b></span><br/>
-          @lavinya.sgolden.konya
+          @lavinya.golden.konya
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
@@ -78,7 +78,7 @@ function Iletisim() {
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Facebook:</b></span><br/>
-          @lavinya.sgolden.konya
+          @lavinya.golden.konya
         </p>
       </div>
     </div>
