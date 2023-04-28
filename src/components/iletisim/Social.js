@@ -71,7 +71,7 @@ function Iletisim() {
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://www.facebook.com/profile.php?id=100092045357182"
+          href="https://www.facebook.com/lavinya.golden.konya/"
           target="_blank"
         >
           <img src={i6} className="contactIcons" title="Facebook için Tıklayınız"></img>
